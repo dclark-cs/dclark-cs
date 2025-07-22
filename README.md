@@ -43,9 +43,3 @@
 - Land an **entry-level IT support role or internship**  
 - Transfer to a top university to complete my degree in Computer Science  
 - Develop the skills to become a **well-rounded software engineer**
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dlcark-cs&show_icons=true&theme=radical" width="60%" />
-</p>
