@@ -1,45 +1,47 @@
-<h1 align="center">Hey there, I'm Donovan 👋</h1>
+<h1 align="center">Donovan</h1>
+<p align="center">Computer Science @ GTCC • C++‑focused developer on the path to Software Engineering</p>
 
 <p align="center">
-  🧑‍💻 Aspiring Software Engineer • 💡 Computer Science Student • 🚀 Future Tech Professional
+  <a href="https://sinwlkn.dev" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-sinwlkn.dev-3b82f6?style=for-the-badge&logo=safari&logoColor=white">
+  </a>
+  <img alt="Status" src="https://img.shields.io/badge/Status-Under_Development-f59e0b?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
 ---
 
 ### 🔭 About Me
-- 🎓 I'm currently studying **Computer Science** at **Guilford Technical Community College (GTCC)**
-- 📈 Preparing to transfer to a 4-year university to complete my CS degree
-- 💻 Focused on building my tech stack, earning certifications, and applying for top scholarships like the **Jack Kent Cooke Undergraduate Transfer Scholarship**
-- 🌱 Training for IT support and cybersecurity roles while building a strong project portfolio
-
----
-
-### 📚 What I Plan to Learn
-> Starting from the fundamentals and leveling up one step at a time.
-
-- ✅ **Python** for scripting, problem-solving, and automation  
-- ✅ **HTML, CSS, JavaScript** for front-end development  
-- ✅ **Git & GitHub** for version control and collaboration  
-- ✅ **Data Structures & Algorithms** for coding interviews  
-- ✅ **Networking basics & Linux CLI** for system-level understanding  
-- ✅ **Cybersecurity fundamentals** (CompTIA A+, endpoint security, phishing awareness)
+I'm a Computer Science student at Guilford Technical Community College (GTCC) with a strong focus on C++. I practice production‑minded habits—writing tested code, documenting decisions, and shipping small, well‑scoped projects. I’m preparing to transfer to a 4‑year university and applying for the <b>Jack Kent Cooke Undergraduate Transfer Scholarship</b>. I also collaborate with a small marketing team at <a href="https://sinwlkn.dev" target="_blank">sinwlkn.dev</a> (currently under development), gaining experience working across roles and scopes.
 
 ---
 
 ### 🛠️ Tools & Technologies
-<img src="https://img.shields.io/badge/OS-Windows-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-black?style=flat-square" />
-<img src="https://img.shields.io/badge/Design-Photoshop-red?style=flat-square" />
-<img src="https://img.shields.io/badge/CAD-AutoCAD%20%26%20Revit-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Productivity-Microsoft%20Office-green?style=flat-square" />
+<p>
+  <img src="https://img.shields.io/badge/OS-macOS%20%7C%20Windows-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VCS-Git%20%7C%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAD-AutoCAD%20%26%20Revit-0B6E99?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Productivity-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</p>
 
 ---
 
-### ✍️ My Goals
-- Launch a **personal portfolio website** using GitHub Pages + custom domain  
-- Build **beginner-friendly projects** like a task tracker, portfolio API, and simple games  
-- Earn industry-recognized certifications like **Google IT Support** and **CompTIA A+**  
-- Land an **entry-level IT support role or internship**  
-- Transfer to a top university to complete my degree in Computer Science  
-- Develop the skills to become a **well-rounded software engineer**
+### 📚 What I’m focusing on now
+- ✅ Modern C++: STL, templates, RAII, smart pointers, CMake, unit testing
+- ✅ Python: scripting, automation, quick tooling
+- ✅ Web: HTML, CSS, JavaScript fundamentals
+- ✅ Git & GitHub: clean history, PRs, reviews, issues
+- ✅ Data Structures & Algorithms: patterns, complexity, problem‑solving
+- ✅ Systems: Linux CLI and networking basics
+- ✅ Cybersecurity: A+ concepts, endpoint security, phishing awareness
+
+---
+
+### ✍️ Near‑term goals
+- 🚀 Launch a polished portfolio (GitHub Pages + custom domain)
+- 🧪 Add GoogleTest and GitHub Actions CI to C++ projects
+- 🧩 Ship 3+ small, well‑documented projects (CLI tool, small API, simple game)
+- 🎓 Earn Google IT Support and CompTIA A+ certifications
+- 💼 Land an internship/entry‑level role aligned with Software Engineering
+- 🎯 Transfer to a top university and deepen core CS competencies
